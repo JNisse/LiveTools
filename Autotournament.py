@@ -1,7 +1,7 @@
 from selenium import webdriver
 from selenium.webdriver.support.ui import Select
 
-import secrets
+import secrets # Behövs en fil secrets som har två metoder user() och password() som returnerar inloggningsuppgifter
 """ Behöver geckodriver(för att köras i Firefox), samt seleniumpaketet
 """
 class Auto_tournament:
