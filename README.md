@@ -1,3 +1,7 @@
-# USSS
-Här finns alla kod till diverse USSS-saker.
-Kan du koda i Python? Om du vill hjälpa till, prata med någon ansvarig på klubben så leder dem dig till rätt person.
+# Livesändningsverktyg
+Här finns saker jag byggt för att underlätta livesändning med DGT bräden.
+
+
+# Broadcasting tools (chess)
+
+Here is some stuff I built to make it easier to run broadcasts with DGT boards.
